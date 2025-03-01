@@ -47,7 +47,7 @@ class LoginScreen extends StatelessWidget {
                   return null;
                 },
               ),
-              const Gap(5),
+              const Gap(10),
 
               // PASSWORD FORM FIELD
               TextFormField(
